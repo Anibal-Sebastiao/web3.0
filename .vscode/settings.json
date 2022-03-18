@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "Home",
-        "smart_contract"
+        "smart_contract",
+        "Blockchain Comunication"
     ]
 }
