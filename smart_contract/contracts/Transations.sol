@@ -29,7 +29,7 @@ contract Transactions {
         return transactions;
     }
 
-    function getAllTransactionsCount() public view returns (uint256){
+    function TansactionsCount() public view returns (uint256){
         return transactionsCount;
     }
 
